@@ -1,4 +1,4 @@
-# elevate
+# elevate - demonstrates running programs with root permissions
 
 # Building
 ```
